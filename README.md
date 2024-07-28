@@ -1,1 +1,1 @@
-# House_Predictor (Kaggle Competition)
+# House Price Predictor (Kaggle Competition)
