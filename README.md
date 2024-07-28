@@ -1,1 +1,1 @@
-# House_Predictor-Kaggle-Competition-
+# House_Predictor (Kaggle Competition)
